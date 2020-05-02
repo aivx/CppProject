@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "lol" << endl;
+    cout << "kek" << endl;
     return 0;
 }
