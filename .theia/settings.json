@@ -1,0 +1,13 @@
+{
+    "cpp.buildConfigurations": [
+        {
+            "name": "",
+            "directory": ""
+        },
+        {
+            "name": "",
+            "directory": ""
+        }
+    ],
+    "editor.autoSave": "on"
+}
